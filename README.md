@@ -1,2 +1,2 @@
 # ImgHosting
-图床
+github图床
